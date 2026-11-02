@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.21138-b31b1b.svg)](https://arxiv.org/pdf/2606.21138)
 [![Venue](https://img.shields.io/badge/Venue-ACM_MM_2026-blue)](https://2026.acmmm.org/)
-[![Rank](https://img.shields.io/badge/Rank-3rd_🥉-brightgreen)]()
+[![Rank](https://img.shields.io/badge/Rank-3rd_🥉-brightgreen)](https://www.codabench.org/competitions/15805/#/results-tab)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
 
 
